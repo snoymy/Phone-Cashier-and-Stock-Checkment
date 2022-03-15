@@ -39,6 +39,7 @@
 1. **Login เข้า application**
 
 > **Email:** user@email.com
+> 
 > **Password :** password
 
 <img title="" src="./READMEASSETS/loginpage.jpg" alt="" width="250">
@@ -60,7 +61,6 @@
 4. **หน้า Profile บอกข้อมูลผู้ใช้**
 
 > ปุ่ม Log Out ออกสู่ระบบ
-> 
 > ปุ่มกลับไปที่หน้าเมนูการใช้งาน
 
 <img src="./READMEASSETS/profile.jpg" title="" alt="" width="250">
@@ -68,6 +68,7 @@
 5. **Stock Mode แสดงรายการคลังสินค้า**
 
 > ปุ่ม Add เพิ่มรายการสินค้า
+> 
 > ปุ่ม Remove ลบรายการสินค้า
 > 
 > ปุ่ม Order ข้อมูลสั่งสินค้า
@@ -77,7 +78,9 @@
 6. **Add Stock เพิ่มรายการสินค้า**
 
 > ปุ่ม Tap เพื่อแสกน barcode
+> 
 > ตรวจดูรายละเอียดสินค้า
+> 
 > ปุ่ม Confirm รายการสินค้า
 
 <img src="./READMEASSETS/add.jpg" title="" alt="" width="250">
@@ -85,7 +88,9 @@
 7. **Remove Stock ลบรายการสินค้า**
 
 > ปุ่น Tap เพื่อแสกน barcode
+> 
 > ตรวจดูรายละเอียดสินค้า
+> 
 > ปุ่ม Confirm รายการสินค้า
 
 <img src="./READMEASSETS/remove.jpg" title="" alt="" width="250">
