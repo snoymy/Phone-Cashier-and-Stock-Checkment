@@ -20,7 +20,7 @@
 
 - Manual: [link](https://github.com/snoymy/Phone-Cashier-and-Stock-Checkment/blob/main/README.md)
 
-- Poster: waiting...
+- Poster: [link](https://drive.google.com/file/d/1skPG8mO3kNYJuT1GvL_QdH9ghdNjGA8A/view?usp=sharing)
 
 ## Table of Content
 
