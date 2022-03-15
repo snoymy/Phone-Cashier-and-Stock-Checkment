@@ -1,5 +1,15 @@
 # Phone Cashier and Stock Checkment
 
+**Developed by**
+
+1. 1811310539 นายปัณณธร ตรีเลิศกุล  
+
+2. 1811310430 นายธนาวุฒิ แสงสวัสดิ์  
+
+3. 1811310497 นายภัทรพงศ์ บัญญัติ
+
+**Project file and manual**
+
 - App source code: 
   
   - front-end: [link](https://github.com/snoymy/Phone-Cashier-and-Stock-Checkment/tree/main/App)
