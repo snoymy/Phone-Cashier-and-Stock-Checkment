@@ -20,19 +20,19 @@
 
 1. **เมื่อ Download backend ไปแล้วให้ใช้คำสั่ง npm i**
 
-![](C:\Users\lENOVO\Documents\coding\Project\READMEASSETS\npmi.jpeg)
+![](./READMEASSETS/npmi.jpeg)
 
 2. **ใช้งานโปรแกรม xampp เพื่อรัน Database**
 
-![](C:\Users\lENOVO\Documents\coding\Project\READMEASSETS\startapache.jpeg)
+![](./READMEASSETS/startapache.jpeg)
 
 3. **สร้าง Database ชื่อ cashier**
 
-![](C:\Users\lENOVO\Documents\coding\Project\READMEASSETS\createdatabase.jpeg)
+![](./READMEASSETS/createdatabase.jpeg)
 
 4. **ใช้คำสั่ง npm run dev เพื่อเปิดใช้งาน backend**
 
-![](C:\Users\lENOVO\Documents\coding\Project\READMEASSETS\npmrundev.jpeg)
+![](./READMEASSETS/npmrundev.jpeg)
 
 ## Application user manual
 
