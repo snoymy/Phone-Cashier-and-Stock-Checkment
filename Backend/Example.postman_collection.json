@@ -1,0 +1,169 @@
+{
+	"info": {
+		"_postman_id": "c79c36b3-8a07-4eb6-a316-32ef530f60da",
+		"name": "Example",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Ex. Company Add",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Entronica\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8626/api/v1/company/addCompany",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8626",
+					"path": [
+						"api",
+						"v1",
+						"company",
+						"addCompany"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. Company List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8626/api/v1/company/getCompanies",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8626",
+					"path": [
+						"api",
+						"v1",
+						"company",
+						"getCompanies"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. Company Get One",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"Western Digital\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8626/api/v1/company/getOneCompany",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8626",
+					"path": [
+						"api",
+						"v1",
+						"company",
+						"getOneCompany"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. Company Update",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. Company Delete",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Ex User Add",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"firstname\": \"Thoranin\",\r\n    \"lastname\": \"Hlowjitsieng\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8626/api/v1/user/addUser",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8626",
+					"path": [
+						"api",
+						"v1",
+						"user",
+						"addUser"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. User Update",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. User Delete",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "Ex. User List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
