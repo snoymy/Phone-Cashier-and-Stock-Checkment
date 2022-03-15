@@ -1,5 +1,17 @@
 # Phone Cashier and Stock Checkment
 
+- App source code: 
+  
+  - front-end: [link](https://github.com/snoymy/Phone-Cashier-and-Stock-Checkment/tree/main/App)
+  
+  - back-end: [link](https://github.com/snoymy/Phone-Cashier-and-Stock-Checkment/tree/main/Backend)
+
+- Video: [link](https://drive.google.com/file/d/1tF1NrvjkqA4oG6uFAVVG-ng5dNj7GcQR/view?usp=sharing)
+
+- Manual: [link](https://github.com/snoymy/Phone-Cashier-and-Stock-Checkment/blob/main/README.md)
+
+- Poster: waiting...
+
 ## Table of Content
 
 - [Requirement](#requirement)
